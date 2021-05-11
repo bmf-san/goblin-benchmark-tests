@@ -1,5 +1,5 @@
 # goblin-benchmark-tests
-This is a repository for benchmark tests of [golin](https://github.com/bmf-san/goblin).
+This is a repository for benchmark tests of [goblin](https://github.com/bmf-san/goblin).
 
 # Benchmark
 ## Environment
